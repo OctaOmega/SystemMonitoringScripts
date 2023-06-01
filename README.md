@@ -1,4 +1,4 @@
-# System Monitoring Sripts
+# System Monitoring Sripts [OS Win]
 
 Please be aware that the provided scripts are entirely written in Python and incorporate certain system tools such as Sysmon. However, it is important to note that these scripts are not intended for use in production environments. They have not undergone extensive streamlining or rigorous development processes, which could result in potential inefficiencies or vulnerabilities.
 
