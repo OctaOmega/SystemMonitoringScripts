@@ -13,7 +13,7 @@ Please note that while efforts will be made to incorporate the suggestions and r
 Thank you for your understanding and your interest in improving these scripts and contributing to the development of the security software application. Together, we can create a more secure and accessible environment for individuals and small businesses.
 
 
-#Warning: Script Usage Restricted to Educational Purposes Only
+# Warning: Script Usage Restricted to Educational Purposes Only
 
 The following script provided is strictly intended for educational purposes. Any use of these scripts for commercial purposes or private use without prior approval is strictly prohibited and unauthorized. It is important to note that unauthorized access to computer systems is a violation of the law and can result in severe penalties and legal consequences.
 
