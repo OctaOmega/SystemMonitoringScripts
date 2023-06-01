@@ -15,7 +15,7 @@ Thank you for your understanding and your interest in improving these scripts an
 
 # Warning: Script Usage Restricted to Educational Purposes Only
 
-The following script provided is strictly intended for educational purposes. Any use of these scripts for commercial purposes or private use without prior approval is strictly prohibited and unauthorized. It is important to note that unauthorized access to computer systems is a violation of the law and can result in severe penalties and legal consequences.
+The script provided here is strictly intended for educational purposes. Any use of these scripts for commercial purposes or private use without prior approval is strictly prohibited and unauthorized. It is important to note that unauthorized access to computer systems is a violation of the law and can result in severe penalties and legal consequences.
 
 The purpose of these scripts is to enhance knowledge, understanding, and learning in a controlled environment. They are not intended for any malicious activities, unauthorized intrusion, or any other form of unethical or illegal behavior.
 
